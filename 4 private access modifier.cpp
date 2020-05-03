@@ -6,7 +6,7 @@
 #include<iostream>
 using namespace std;
 /*
-    Example of Accessing Private Data Members from outside class in CPP.
+    Private access modifier in cpp
 */
 class Circle
 {
