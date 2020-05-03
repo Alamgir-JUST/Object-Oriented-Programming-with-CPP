@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 /*
-    Example of Accessing Public Data Members from outside class.
+    Example of  Public access modifier in cpp
 */
 // class definition
 class Circle
