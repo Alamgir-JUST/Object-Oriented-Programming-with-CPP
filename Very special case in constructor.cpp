@@ -14,7 +14,7 @@ public:
 };
 class child2: public child{
 public:
-    using child::child;
+    using child::child;//Adding the child constructor to this scope
     child2(): child(10){
     }
 };
